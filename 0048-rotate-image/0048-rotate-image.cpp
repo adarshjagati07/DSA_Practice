@@ -17,6 +17,5 @@ public:
             reverse(row.begin(), row.end());
         }
         
-        
     }
 };
