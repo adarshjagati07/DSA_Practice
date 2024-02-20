@@ -1,6 +1,10 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
+        
+        //always remember to solve this problem use four pointers at the edges of the matrix
+        //and check for edge cases.
+        
         vector<vector<int>> matrix(n, vector<int>(n, 0));
         int left = 0, right = n-1;
         int top = 0, bottom = n-1;
