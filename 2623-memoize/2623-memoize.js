@@ -10,7 +10,7 @@ function memoize(fn) {
             return memo[params];
         }
         const result = fn(...args);
-        memo[params] = result;
+        memo[params] = result;  //here we are storing our previous result in memo
         return result;
     }
 }
