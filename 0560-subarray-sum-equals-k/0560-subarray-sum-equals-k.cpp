@@ -3,14 +3,16 @@ public:
     int subarraySum(vector<int>& nums, int k) {
         int numsLen = nums.size();
         int count = 0;
+        int preSum = 0; 
+        unordered_map<int,int> mpp;
+        mpp[0] = 1;
         
         for(int i = 0; i < numsLen; i++){
-            int sum = 0;
-            for(int j = i; j < numsLen; j++){
-                sum = sum + nums[j];
-                if(sum == k) count++;
-            }
+            preSum += nums[i];
+            int remove = preSum - k;
+            count += mpp[remove];
+            mpp[preSum] +=1;
         }
-        return count;        
+        return count;
     }
 };
