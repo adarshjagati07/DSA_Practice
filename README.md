@@ -12,6 +12,7 @@ I am going to list all my solved problems of leetcode over here.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshjagati07/DSA_Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,4 +21,5 @@ I am going to list all my solved problems of leetcode over here.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshjagati07/DSA_Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
