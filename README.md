@@ -26,4 +26,8 @@ I am going to list all my solved problems of leetcode over here.
 | [0907-koko-eating-bananas](https://github.com/adarshjagati07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshjagati07/DSA_Practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/adarshjagati07/DSA_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
