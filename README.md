@@ -30,6 +30,7 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adarshjagati07/DSA_Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -39,6 +40,7 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adarshjagati07/DSA_Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -54,4 +56,5 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adarshjagati07/DSA_Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
