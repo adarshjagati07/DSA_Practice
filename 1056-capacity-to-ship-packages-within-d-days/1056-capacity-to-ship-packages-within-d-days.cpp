@@ -4,7 +4,7 @@ public:
         int weightsLen = weights.size();
         auto max = max_element(weights.begin(),weights.end());
         int low = *max;
-        int high = accumulate(weights.begin(), weights.end(), 0);;
+        int high = accumulate(weights.begin(), weights.end(), 0);
         int mid;
         int leastWeight;
 
