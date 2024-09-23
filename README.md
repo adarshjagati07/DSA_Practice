@@ -61,6 +61,7 @@ I am going to list all my solved problems of leetcode over here.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adarshjagati07/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -80,6 +81,7 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshjagati07/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/adarshjagati07/DSA_Practice/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
