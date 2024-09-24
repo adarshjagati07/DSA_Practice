@@ -62,6 +62,7 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshjagati07/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/adarshjagati07/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -110,4 +111,12 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/adarshjagati07/DSA_Practice/tree/master/1370-count-number-of-nice-subarrays) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/adarshjagati07/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/adarshjagati07/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
