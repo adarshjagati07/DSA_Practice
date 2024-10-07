@@ -10,30 +10,21 @@
  * };
  */
 class Solution {
-    //bruteforce approach
 public:
     int diameterOfBinaryTree(TreeNode* root) {
         if(root == NULL) return 0;
         int diameter = 0;
-        findMax(root, diameter);
+        int height = findMax(root, diameter);
         return diameter;
     }
-
 private:
-    int getHeight(TreeNode* node){
+    int findMax(TreeNode* node, int &maxi){
         if(node == NULL) return 0;
-        int lh = getHeight(node->left);
-        int rh = getHeight(node->right);
-        return 1 + max(lh , rh);
-    }
 
-    void findMax(TreeNode* node,int &maxi){
-        if(node == NULL) return ;
-        int leftHeight = getHeight(node->left);
-        int rightHeight = getHeight(node->right);
-        maxi = max(leftHeight+rightHeight, maxi);
-        findMax(node->left,maxi);
-        findMax(node->right,maxi);
+        int lh = findMax(node->left, maxi);
+        int rh = findMax(node->right, maxi);
+
+        maxi = max(lh+rh, maxi);
+        return 1 + max(rh, lh);
     }
-   
 };
