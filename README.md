@@ -144,6 +144,7 @@ I am going to list all my solved problems of leetcode over here.
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshjagati07/DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshjagati07/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -174,6 +175,7 @@ I am going to list all my solved problems of leetcode over here.
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshjagati07/DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshjagati07/DSA_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -189,4 +191,8 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshjagati07/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
