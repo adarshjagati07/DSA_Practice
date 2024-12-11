@@ -11,6 +11,7 @@ I am going to list all my solved problems of leetcode over here.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/adarshjagati07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/adarshjagati07/DSA_Practice/tree/master/0907-koko-eating-bananas) |
@@ -83,6 +84,7 @@ I am going to list all my solved problems of leetcode over here.
 | [0138-copy-list-with-random-pointer](https://github.com/adarshjagati07/DSA_Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/adarshjagati07/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0169-majority-element) |
 | [0966-binary-subarrays-with-sum](https://github.com/adarshjagati07/DSA_Practice/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/adarshjagati07/DSA_Practice/tree/master/1370-count-number-of-nice-subarrays) |
@@ -102,10 +104,12 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/adarshjagati07/DSA_Practice/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshjagati07/DSA_Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
@@ -205,4 +209,8 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adarshjagati07/DSA_Practice/tree/master/0455-assign-cookies) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
