@@ -213,4 +213,8 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/adarshjagati07/DSA_Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
