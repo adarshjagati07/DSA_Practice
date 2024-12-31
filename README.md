@@ -8,6 +8,7 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/adarshjagati07/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0162-find-peak-element) |
@@ -54,6 +55,7 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/adarshjagati07/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/adarshjagati07/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0148-sort-list) |
@@ -65,6 +67,7 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshjagati07/DSA_Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adarshjagati07/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshjagati07/DSA_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshjagati07/DSA_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adarshjagati07/DSA_Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -199,6 +202,7 @@ I am going to list all my solved problems of leetcode over here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adarshjagati07/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshjagati07/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
@@ -219,4 +223,8 @@ I am going to list all my solved problems of leetcode over here.
 | [0175-combine-two-tables](https://github.com/adarshjagati07/DSA_Practice/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/adarshjagati07/DSA_Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/adarshjagati07/DSA_Practice/tree/master/0182-duplicate-emails) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adarshjagati07/DSA_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
