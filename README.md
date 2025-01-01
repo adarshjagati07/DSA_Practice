@@ -9,6 +9,7 @@ I am going to list all my solved problems of leetcode over here.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/adarshjagati07/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/adarshjagati07/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshjagati07/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -107,6 +108,7 @@ I am going to list all my solved problems of leetcode over here.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adarshjagati07/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/adarshjagati07/DSA_Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adarshjagati07/DSA_Practice/tree/master/0169-majority-element) |
 ## Sorting
@@ -204,6 +206,7 @@ I am going to list all my solved problems of leetcode over here.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adarshjagati07/DSA_Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/adarshjagati07/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshjagati07/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshjagati07/DSA_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
