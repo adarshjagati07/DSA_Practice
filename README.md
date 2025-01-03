@@ -10,6 +10,7 @@ I am going to list all my solved problems of leetcode over here.
 | [0033-search-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/adarshjagati07/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adarshjagati07/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/adarshjagati07/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshjagati07/DSA_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshjagati07/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshjagati07/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -237,5 +238,10 @@ I am going to list all my solved problems of leetcode over here.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adarshjagati07/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/adarshjagati07/DSA_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/adarshjagati07/DSA_Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
